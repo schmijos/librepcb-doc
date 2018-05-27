@@ -1,0 +1,9 @@
+= LibrePCB User Manual
+:toc: left
+:toclevels: 2
+:sectnums:
+:sectlinks:
+:icons: font
+
+include::README.adoc[]
+include::getting_started/index.adoc[]

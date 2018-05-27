@@ -1,5 +1,3 @@
-= LibrePCB Documentation
-
 Welcome to the documentation of link:http://librepcb.org[LibrePCB]!
 LibrePCB is a free EDA software to develop printed circuit boards.
 It runs on Linux, Windows and Mac.
